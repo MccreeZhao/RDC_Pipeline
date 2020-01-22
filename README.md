@@ -1,5 +1,5 @@
 # RDC_Pipeline
-Pytorch implementation of  A Simple yet Effective Pipeline for Radial Distortion Correction (under review)
+Pytorch implementation of  **A Simple yet Effective Pipeline for Radial Distortion Correction** (under review)
 ## License
 The code is released under the MIT License.
 ## News
